@@ -1,6 +1,6 @@
 <div align="center">
 
-![Héctor Franco GitHub Banner](./assets/github-banner.jpg)
+![Héctor Franco GitHub Banner](./assets/github-banner-profile.jpg)
 
 # Héctor Franco 👋
 
