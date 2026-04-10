@@ -155,6 +155,7 @@ Recent public activity includes work and issue reporting around:
 
 - [**LexikTranslationBundle**](https://github.com/lexik/LexikTranslationBundle)
 - [**LiipMonitorBundle**](https://github.com/liip/LiipMonitorBundle)
+- [**NelmioApiDocBundle**](https://github.com/nelmio/NelmioApiDocBundle)
 - Symfony compatibility updates
 - modernization efforts around PHP attributes, CI, code quality, and frontend tooling
 
