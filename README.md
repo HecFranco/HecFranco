@@ -153,6 +153,7 @@ I like contributing where architecture, compatibility, and developer experience 
 
 Recent public activity includes work and issue reporting around:
 
+- [**A2lixTranslationFormBundle**](https://github.com/a2lix/TranslationFormBundle)
 - [**LexikTranslationBundle**](https://github.com/lexik/LexikTranslationBundle)
 - [**LiipMonitorBundle**](https://github.com/liip/LiipMonitorBundle)
 - [**NelmioApiDocBundle**](https://github.com/nelmio/NelmioApiDocBundle)
