@@ -157,6 +157,7 @@ Recent public activity includes work and issue reporting around:
 - [**LexikTranslationBundle**](https://github.com/lexik/LexikTranslationBundle)
 - [**LiipMonitorBundle**](https://github.com/liip/LiipMonitorBundle)
 - [**NelmioApiDocBundle**](https://github.com/nelmio/NelmioApiDocBundle)
+- [**EightPointsGuzzleBundle**](https://github.com/8p/EightPointsGuzzleBundle)
 - [**RectorSwissKnife**](https://github.com/rectorphp/swiss-knife)
 - [**Symfony**](https://github.com/symfony/symfony)
 - Symfony compatibility updates
