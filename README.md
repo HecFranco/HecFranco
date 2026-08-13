@@ -161,6 +161,7 @@ Recent public activity includes work and issue reporting around:
 - [**StichozaGoogleTranslatePhp**](https://github.com/Stichoza/google-translate-php)
 - [**RectorSwissKnife**](https://github.com/rectorphp/swiss-knife)
 - [**Symfony**](https://github.com/symfony/symfony)
+- [**Symfony/Mercure**](https://github.com/symfony/mercure-bundle)
 - [**SentryPhp**](https://github.com/getsentry/sentry-php)
 - [**SentrySymfony**](https://github.com/getsentry/sentry-symfony)
 - Symfony compatibility updates
